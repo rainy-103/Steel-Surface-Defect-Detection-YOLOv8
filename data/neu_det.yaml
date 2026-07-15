@@ -1,0 +1,15 @@
+# NEU steel-surface defect dataset.
+# Expected default layout:
+#   parent/
+#     Steel-Surface-Defect-Detection-YOLOv9/
+#     NEU_Seg-main/images/{train,test}
+#     NEU_Seg-main/labels/{train,test}
+path: ../NEU_Seg-main
+train: images/train
+val: images/test
+test: images/test
+
+# The source labels use class IDs 1, 2 and 3. ID 0 is intentionally unused.
+nc: 4
+names: [unused, Inclusion, Patches, Scratches]
+

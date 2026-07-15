@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+
+# Environments and editors
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+
+# Training artifacts and model weights
+runs/
+weights/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.engine
+*.torchscript
+
+# Datasets and caches
+datasets/
+NEU_Seg-main/
+*.cache
+
+# Experiment services
+wandb/
+.clearml/
+
+# OS files
+.DS_Store
+Thumbs.db
+
