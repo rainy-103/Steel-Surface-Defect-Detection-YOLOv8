@@ -1,4 +1,4 @@
-# Steel Surface Defect Detection with YOLOv9
+# Steel Surface Defect Detection with YOLOv8
 
 An open-source training and inference pipeline for steel-surface defect
 detection using a dual-head YOLOv8 model. The current dataset configuration
