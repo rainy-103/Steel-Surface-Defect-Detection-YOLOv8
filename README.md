@@ -1,7 +1,7 @@
 # Steel Surface Defect Detection with YOLOv9
 
 An open-source training and inference pipeline for steel-surface defect
-detection using a dual-head YOLOv9 model. The current dataset configuration
+detection using a dual-head YOLOv8 model. The current dataset configuration
 recognizes three defect categories: Inclusion, Patches and Scratches.
 
 ## Repository contents
@@ -9,7 +9,7 @@ recognizes three defect categories: Inclusion, Patches and Scratches.
 - `train_dual.py`: dual-head detector training
 - `detect_dual.py`: inference and optional feature visualization
 - `val_dual.py`: validation
-- `models/`: YOLOv9 model definitions
+- `models/`: YOLOv8 model definitions
 - `utils/`: data loading, loss functions and utilities
 - `data/neu_det.yaml`: local NEU dataset configuration
 - `data/hyps/hyp.ch4.yaml`: Chapter 4-style training hyperparameters
