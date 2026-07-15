@@ -108,7 +108,7 @@ add its download URL and SHA-256 checksum here.
 
 ## License and attribution
 
-This project is based on [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9)
+This project is based on yolov8
 and is distributed under the GNU General Public License v3.0. See
 `LICENSE.md` and `NOTICE.md`.
 
