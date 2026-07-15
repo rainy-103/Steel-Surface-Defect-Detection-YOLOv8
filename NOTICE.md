@@ -10,12 +10,3 @@ WongKinYiu and contributors:
 
 The repository retains the upstream GPL-3.0 license. Modifications and dataset
 configuration in this repository are distributed under the same license.
-
-## Important scope note
-
-The code currently published here implements a YOLOv9 dual-head object-detection
-training pipeline for steel-surface defects. It does **not** yet implement the
-complete Chapter 4 DBA architecture described in the associated thesis
-(YOLOv8n + DCNv4 + EMA attention + autoencoder reconstruction branch). Please
-do not describe the current release as an exact reproduction of that model.
-

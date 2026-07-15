@@ -4,10 +4,6 @@ An open-source training and inference pipeline for steel-surface defect
 detection using a dual-head YOLOv9 model. The current dataset configuration
 recognizes three defect categories: Inclusion, Patches and Scratches.
 
-> **Scope:** this release reflects the code that is currently runnable in the
-> project folder. It is a YOLOv9 dual-head detector, not a complete reproduction
-> of the thesis Chapter 4 DBA network (YOLOv8n + DCNv4 + EMA + autoencoder).
-
 ## Repository contents
 
 - `train_dual.py`: dual-head detector training
@@ -121,4 +117,3 @@ and is distributed under the GNU General Public License v3.0. See
 If this repository supports a publication, add the final paper title, authors,
 DOI and BibTeX entry here. Please also cite the upstream YOLOv9 paper and the
 dataset source used in your experiments.
-
