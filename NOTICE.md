@@ -10,3 +10,8 @@ WongKinYiu and contributors:
 
 The repository retains the upstream GPL-3.0 license. Modifications and dataset
 configuration in this repository are distributed under the same license.
+
+The annotation artifact contains derived object labels and test masks but no
+source images. The GPL-3.0 software licence does not grant redistribution rights
+for third-party images. Users must obtain the image data from the original
+provider and follow its access and reuse conditions.

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this artifact, cite the accompanying manuscript and the original NEU-DET dataset."
+title: "Reconstruction-guided dual-branch learning for steel surface defect detection and anomaly localization"
+type: software
+version: 0.1.0
+date-released: 2026-07-22
+authors:
+  - family-names: Zhou
+    given-names: Pinyuan
+  - family-names: Zhou
+    given-names: Wenjun
+  - family-names: Wang
+    given-names: Tianfei
+  - family-names: Dang
+    given-names: Jiachen
+  - family-names: Xiang
+    given-names: Sheng
+  - family-names: Peng
+    given-names: Bo
+repository-code: "https://github.com/rainy-103/Steel-Surface-Defect-Detection-YOLOv8"
+license: GPL-3.0-only

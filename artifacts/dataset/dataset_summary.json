@@ -1,0 +1,33 @@
+{
+  "all": {
+    "images": 4470,
+    "instances": 13320
+  },
+  "artifact_version": "1.0.0",
+  "classes": {
+    "1": "Inclusions",
+    "2": "Patches",
+    "3": "Scratches"
+  },
+  "exact_train_test_image_duplicates": 0,
+  "source_images_included": false,
+  "test": {
+    "class_instances": {
+      "1": 1134,
+      "2": 727,
+      "3": 930
+    },
+    "images": 840,
+    "instances": 2791,
+    "pixel_masks": 840
+  },
+  "train": {
+    "class_instances": {
+      "1": 4050,
+      "2": 3054,
+      "3": 3425
+    },
+    "images": 3630,
+    "instances": 10529
+  }
+}

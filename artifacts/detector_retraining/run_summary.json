@@ -1,0 +1,30 @@
+{
+  "scope": "available YOLOv9 DualDDetect retraining run; not the manuscript's complete reconstruction-guided model",
+  "epochs_recorded": 200,
+  "best_map50_epoch": 148,
+  "best_map50_metrics": {
+    "precision": 0.81656,
+    "recall": 0.76671,
+    "map50": 0.81935,
+    "map50_95": 0.5133
+  },
+  "last_epoch_metrics": {
+    "epoch": 199,
+    "precision": 0.8094,
+    "recall": 0.75761,
+    "map50": 0.81724,
+    "map50_95": 0.52163
+  },
+  "weights": {
+    "best.pt": {
+      "bytes": 122368474,
+      "sha256": "6330faad8607f317d7e285e0a6fafe603c5e1202457a69234d7c9cc65c065f5f",
+      "tracked_in_git": false
+    },
+    "last.pt": {
+      "bytes": 122368474,
+      "sha256": "f688799fca7244d05fa18080fbec18d900bf0e35c7f810d0b171b571856de66b",
+      "tracked_in_git": false
+    }
+  }
+}
